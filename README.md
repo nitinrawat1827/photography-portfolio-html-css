@@ -31,6 +31,7 @@ Perfect for photographers to showcase their work, highlight events, sell prints,
 
 ## 👀 Preview
 
-<img width="1740" height="863" alt="screenshot png" src="https://github.com/user-attachments/assets/4b328760-a1ce-446d-bfcd-0657457567d6" />
+<img width="1857" height="893" alt="screenshot png" src="https://github.com/user-attachments/assets/4ffae662-eec1-4321-9c6b-eb33e21ff2c6" />
+
 
 
